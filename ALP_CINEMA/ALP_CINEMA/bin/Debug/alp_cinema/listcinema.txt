@@ -1,8 +1,0 @@
-Avengers: Endgame,.\alp_cinema\1.jpeg
-Thor: Ragnarok,.\alp_cinema\2.jpeg
-The Amazing Spider-Man,.\alp_cinema\3.jpeg
-Ant-Man,.\alp_cinema\4.jpeg
-Harry Potter,.\alp_cinema\5.jpeg
-Inception,.\alp_cinema\6.jpeg
-Jurassic Park,.\alp_cinema\7.jpeg
-Star Wars: A New Hope,.\alp_cinema\8.jpeg
